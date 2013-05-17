@@ -1,0 +1,7 @@
+C:\E\Education\Telerik\HW\KPK\10. Code-Tuning-and-Optimization-Homework\OTHER\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\E\Education\Telerik\HW\KPK\10. Code-Tuning-and-Optimization-Homework\OTHER\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\E\Education\Telerik\HW\KPK\10. Code-Tuning-and-Optimization-Homework\OTHER\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\E\Education\Telerik\HW\KPK\10. Code-Tuning-and-Optimization-Homework\OTHER\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.dll
+C:\E\Education\Telerik\HW\KPK\10. Code-Tuning-and-Optimization-Homework\OTHER\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\E\Education\Telerik\HW\KPK\10. Code-Tuning-and-Optimization-Homework\OTHER\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\E\Education\Telerik\HW\KPK\10. Code-Tuning-and-Optimization-Homework\OTHER\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
